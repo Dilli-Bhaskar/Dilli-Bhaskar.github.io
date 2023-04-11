@@ -252,7 +252,7 @@ footer {
     left: 0;
     right: 0;
     margin: 0 auto;
-    background: #ffffff
+    background: #3498db
 }
 
 .background-alt {
@@ -262,7 +262,7 @@ footer {
 #lead {
     position: relative;
     height: 1vh;
-    min-height: 500px;
+    min-height: 550px;
     max-height: 1080px;
     background-color: rgb(255, 255, 255);
     background-size: cover;
@@ -289,7 +289,7 @@ footer {
     font-size: 5em;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    line-height: 1.1em
+    line-height: 0.9em
 }
 
 #lead-content h2 {
@@ -540,10 +540,15 @@ footer {
     border-radius: 4px
 }
 
+
 .project-image {
     float: left
 }
 
+.project-img {
+    
+    float: middle
+}
 .project-info {
     position: absolute;
     top: 50%;
