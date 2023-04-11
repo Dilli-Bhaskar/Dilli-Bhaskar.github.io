@@ -103,7 +103,7 @@ header a:hover {
 }
 
 header a:focus {
-    color: #3498db;
+    color: #ffffff;
     text-decoration: none
 }
 
@@ -262,7 +262,7 @@ footer {
 #lead {
     position: relative;
     height: 1vh;
-    min-height: 500px;
+    min-height: 300px;
     max-height: 1080px;
     background-color: rgb(255, 255, 255);
     background-size: cover;
@@ -307,7 +307,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgb(25, 255, 255);
+    background: rgb(255, 255, 255);
     z-index: 1
 }
 
