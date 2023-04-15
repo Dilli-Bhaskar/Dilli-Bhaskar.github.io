@@ -157,11 +157,11 @@ header.sticky {
 }
 
 footer {
-  padding: 0px 0;
+  padding: 5px 5;
 }
 
 .copyright {
-  padding-top: 20px;
+  padding: 30px;
 }
 
 .copyright p {
