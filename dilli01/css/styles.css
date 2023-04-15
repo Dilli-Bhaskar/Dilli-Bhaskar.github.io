@@ -561,7 +561,7 @@ footer {
 }
 .project-info {
   position: absolute;
-  top: 50%;
+  top: 40%;
   transform: translateY(-50%);
   margin-left: 300px;
   
@@ -569,10 +569,12 @@ footer {
 }
 
 .project-info h3 {
+  text-align: middle;
+  margin-bottom: 50px;
   font-size: 1.5em;
   font-weight: 300;
   color: #000000;
-  margin: 0 0 10px 0;
+  margin: 0 0 15px 0;
 }
 
 .project-info p {
