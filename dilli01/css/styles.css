@@ -560,6 +560,7 @@ footer {
   float: middle;
 }
 .project-info {
+  margin-left: 10px;
   position: absolute;
   top: 40%;
   transform: translateY(-50%);
