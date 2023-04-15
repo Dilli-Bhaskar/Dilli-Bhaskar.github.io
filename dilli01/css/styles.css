@@ -552,6 +552,8 @@ footer {
 
 .project-image {
   float: left;
+  height: 199px;
+  width: 250px;
 }
 
 .project-img {
@@ -562,6 +564,7 @@ footer {
   top: 50%;
   transform: translateY(-50%);
   margin-left: 300px;
+  
   padding: 15px;
 }
 
@@ -569,13 +572,16 @@ footer {
   font-size: 1.5em;
   font-weight: 300;
   color: #000000;
-  margin: 0 0 15px 0;
+  margin: 0 0 10px 0;
 }
 
 .project-info p {
+  text-align: left;
   color: #000000;
   margin: 0 0 15px 0;
+  
   font-size: 0.9em;
+  /* text-indent:30px; */
 }
 
 .no-image .project-info {
